@@ -3,7 +3,7 @@
 This repository contains a **Multilingual Chatbot** built using **LangChain** and **Streamlit** in Python. The chatbot provides answers about colleges and universities, supports multiple languages, and allows users to upload documents for extracting and querying information.
 
 ## Screenshot
-![Chatbot Screenshot](images/screenshot.png)
+![Chatbot Screenshot](bot.png)
 
 ## Features
 - **Multilingual Support**: Interact with the chatbot in various languages, making it accessible to a diverse user base.
