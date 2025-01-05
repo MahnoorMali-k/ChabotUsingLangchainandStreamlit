@@ -27,7 +27,7 @@ This repository contains a **Multilingual Chatbot** built using **LangChain** an
 
 3. Run the chatbot:
    ```bash
-   streamlit run app.py
+   streamlit run Chatbot.py
    ```
 
 ## How It Works
