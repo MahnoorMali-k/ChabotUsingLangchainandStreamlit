@@ -41,13 +41,12 @@ Users can upload documents in supported formats (PDF, TXT). The chatbot processe
 ### Conversation History
 The **ConversationBuffer** function in LangChain allows the chatbot to remember past interactions in a session. This feature enhances the user experience by enabling contextual and coherent conversations.
 
-
 ## Dependencies
 The chatbot uses the following major libraries:
 - **LangChain**: For natural language processing and conversational AI.
 - **Streamlit**: For building the web-based user interface.
 - **PyPDF2**: For processing PDF files.
-- 
+  
 ## Future Enhancements
 - Add support for more document formats.
 - Improve multilingual capabilities for less common languages.
