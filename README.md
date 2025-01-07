@@ -17,7 +17,7 @@ This repository contains a **Multilingual Chatbot** built using **LangChain** an
 1. Clone the repository:
    ```bash
    git clone https://github.com/MahnoorMali-k/ChabotUsingLangchainandStreamlit.git
-   cd MultilingualChatbot
+   cd ChabotUsingLangchainandStreamlit
    ```
 
 2. Install the required dependencies:
